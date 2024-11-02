@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>🌱 I'm currently working on...<br>Expanding my hands-on projects in Computer Networking to apply my skills in real-world scenarios and build a strong foundation in networking technologies.<br><br>🤝 I'm looking to collaborate on...<br>Networking projects focused on computer networking, including:<br>Network protocols<br>Security<br>Optimization<br>I'm particularly interested in hands-on applications that can deepen my understanding of networking infrastructure and support scalable, real-world solutions.<br>🧠 I'm looking for help with...<br>Guidance in robotics project management to enhance my skills and explore new tech trends in the field of robotics.<br>📚 I'm currently learning...<br>Networking concepts and protocols for my Computer Network course, diving deeper into the core principles of connectivity and communication.<br>💬 Ask me about...<br>My journey in robotics: the challenges I face, the milestones I've reached, and what I find most rewarding about working with this evolving technology.<br>🎉 Fun fact...<br>My passion for tech seamlessly blends into my daily life – I'm always exploring new projects and pushing my boundaries to learn and grow!
+Hello, I'm Jr_gakunju! 👋<br>🙂‍↔️ About Me<br> ❤️ I'm Mostly Active in the IoT & Robotics space<br>🌱 I'm currently working on...<br>Expanding my hands-on projects in Computer Networking to apply my skills in real-world scenarios and build a strong foundation in networking technologies.<br><br>🤝 I'm looking to collaborate on...<br>Networking projects focused on computer networking, including:<br>Network protocols<br>Security<br>Optimization<br>I'm particularly interested in hands-on applications that can deepen my understanding of networking infrastructure and support scalable, real-world solutions.<br>🧠 I'm looking for help with...<br>Guidance in robotics project management to enhance my skills and explore new tech trends in the field of robotics.<br>📚 I'm currently learning...<br>Networking concepts and protocols for my Computer Network course, diving deeper into the core principles of connectivity and communication.<br>💬 Ask me about...<br>My journey in robotics: the challenges I face, the milestones I've reached, and what I find most rewarding about working with this evolving technology.<br>🎉 Fun fact...<br>My passion for tech seamlessly blends into my daily life – I'm always exploring new projects and pushing my boundaries to learn and grow!
 
 
 ## 🌐 Socials:
@@ -17,8 +17,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=K7gakunju&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=K7gakunju&icon=6&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
